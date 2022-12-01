@@ -1,0 +1,7 @@
+999,Thay Hieu Dep Trai,9999999
+142,Nguyen Thi Thuy,500
+123,Pham Dao Anh Thu,750
+222,Nguyen Tien Dat,800
+111,Van Mai Huong,1000
+333,Dong Phuong Thanh,1200
+102,Ho Xuan Huong,1500

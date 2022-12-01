@@ -1,0 +1,8 @@
+4,Mảng trong GO hoạt động khác với C như thế nào?,Khi truyền 1 mảng vào hàm nó sẽ nhận được 1 bản sao của mảng chứ không phải là con trỏ của mảng,ai,HuyHungHo,HuyHayHo,a
+9,Go có hỗ trợ kiểu kế thừa không?,Có,Không,có hoặc không,không nói đến
+1,compare = ,so sánh,ai biết,I don't know,compa,a
+3,2x^2 = 8; x = ?,3,2,4,1,b
+10,lệnh xuất ra là gì?,fmt.Scan,fmt.Scanf,fmt.Print,fmt.cout,c
+7,3+3 = ,1,2,5,6,d
+5,What is my favourite song?,Stereo,The nights,Let her go,Unstoppable,b
+
